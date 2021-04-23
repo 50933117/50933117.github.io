@@ -281,10 +281,10 @@ vertical: body pane on the botton</t>
        
     &lt;/p&gt;
     &lt;p&gt;
-        通常 1 代表 有電、真的、正面的因素
+        通常 1 代表 有電、正面的因素
     &lt;/p&gt;
     &lt;p&gt;
-        通常 1 代表 有電、真的、正面的因素
+        通常 0 代表 沒電、負面的因素
     &lt;/p&gt;
     &lt;p&gt;
         位元 (Bit)：就是指一條信號線，
