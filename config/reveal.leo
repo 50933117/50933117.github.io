@@ -263,7 +263,7 @@ vertical: body pane on the botton</t>
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
-    &lt;h2&gt;電腦的資料單位..&lt;/h2&gt;
+    &lt;h2&gt;電腦的資料單位&lt;/h2&gt;
     
   
 
